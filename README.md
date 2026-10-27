@@ -4,9 +4,7 @@
 ## About Me<br><br>
 
 I am a **final-year B.Tech student** specializing in **Artificial Intelligence and Data Science**, expected to graduate in **2027**.<br><br>
-
 I enjoy learning new technologies, exploring how things work, and continuously expanding my knowledge. I believe in learning by building, experimenting, and solving real-world problems.<br><br>
-
 I am a curious and self-motivated learner who enjoys taking on new challenges, improving technical skills, and working on practical projects that help me grow as a developer.<br><br>
 Outside of academics, I enjoy building projects, exploring new ideas, and spending time watching movies, anime, and web series.
 
